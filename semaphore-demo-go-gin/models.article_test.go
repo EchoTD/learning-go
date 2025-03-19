@@ -1,5 +1,3 @@
-// models.article_test.go
-
 package main
 
 import "testing"
